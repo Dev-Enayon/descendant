@@ -138,7 +138,7 @@
 
     // Typing Effect
     const typingTextElements = document.querySelectorAll(".typing-text");
-    const phrases = ["Descendant Gathering'25", "December 26, 2025"];
+    const phrases = ["PROGENITORS' COVENANT", "December 26, 2025"];
     let phraseIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
